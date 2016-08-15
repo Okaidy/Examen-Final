@@ -1,0 +1,137 @@
+/*Dar estilo a Home y nav. Okaidy*/
+/*fondo de home*/
+.fndhome{
+	background-image: url(../img/background/hero.jpg);
+	background-size: cover;	
+	background-repeat: no-repeat;
+}
+/*altura de vista pricipal*/
+.altura{
+	height: 580px;
+}
+/*opacidad de la imagen*/
+.opacidad{
+	background: rgba(0,0,0,0.4);
+}
+/*alto de menu*/
+nav{
+	height: 50px;
+}
+/*margen top*/
+.mgt-25{
+	margin-top: 25px;
+}
+.mgl-30{
+	margin-left: 30px;
+}
+a:hover {
+    color: #0489B1;
+}
+.font-50{
+	font-size: 50px;
+}
+.font-20{
+	font-size: 20px;
+}
+.mgl-80{
+	margin-left: 80px;
+}
+.mgt-150{
+	margin-top: 150px;
+}
+.pdg{
+	padding: 0px 180px;
+}
+.boton{
+	background: red;
+	padding: 20px;
+	width: 200px;
+}
+.trans{
+	background: rgba(255, 255, 255, 0.1);
+	border:1px solid rgba(255, 255, 255, 0.3);
+}
+.osc{
+	background: #424242;
+}
+.mgt-15{
+	margin-top: 15px;
+}
+.mgt-40{
+	margin-top: 40px;
+}
+.bg-white{
+	background: white;
+}
+.pdg-0-50{
+	padding: 0px 50px;
+}
+.pdgtext{
+	padding:30px;
+}
+.auto{
+	margin: auto;
+}
+.caja{
+	width: 280px;
+}
+.pdgprice{
+	padding:60px 20px;
+}
+.font-30{
+	font-size: 30px;
+}
+.bgtur{
+	background: #04B4AE;
+}
+.font-40{
+	font-size: 40px;
+}
+.pdt-30{
+	padding-top: 30px;
+}
+hr{
+	width: 200px;
+	margin-left: 60px;
+}
+.purchase{
+ 	width: 100px;
+ 	padding:10px;
+}
+.mgb-15{
+	margin-bottom: 15px;
+}
+.price{
+	height: 600px;
+	border:1px lightgray solid;
+}
+.gris{
+	height: 800px;
+}
+.foto{
+	border-radius: 100%;
+	width: 100px;
+}
+.costumer{
+	height: 400px;
+}
+.formulario{
+	background-image: url(../img/background/contactus.jpg);
+	background-size: cover;	
+	background-repeat: no-repeat;
+}
+.txtf{
+	width: 100%;
+	height: 50px;
+}
+.msg{
+	border:none;
+}
+.btncontact{
+	padding: 20px;
+	border:none;
+	width: 150px;
+}
+footer{
+	height: 80px;
+}

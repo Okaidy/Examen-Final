@@ -1,0 +1,78 @@
+/*estilos creados por iso*/
+i{
+	margin-left: 150px;
+}
+.compus{
+	width: 100%;
+}
+.lorem{
+	float: right;
+	margin-right: 240px;
+}
+.text1{
+	margin-left: 110px;
+	text-align: justify;
+}
+.boton4{
+	background: #171766;
+	padding: 10px;
+	margin-left: 520px;
+	width: 100px;
+	color: white;
+	height: 45px;
+}
+.aqua:hover{
+	background: #00CC99;
+}
+.botones{
+	padding-left: 190px;
+	padding-right: 210px;
+
+}
+.imgtext{
+	margin-top: -50px;
+}
+.pad{
+	margin-left: 25px;
+}
+.mov{
+	padding-left: 430px;
+}
+.b140{
+	margin-bottom: 140px;
+}
+.t140{
+	margin-top: 140px;
+}
+.t20{
+	margin-top: 20px;
+}
+.t40{
+	font-size: 40px;
+}
+.tb{
+	font-weight: 2px;
+}
+.b20{
+	margin-bottom: 20px;
+}
+.pd-5-10{
+	padding: 0% 11% 3% 16%;
+}
+.b5{
+	margin-bottom: 15px;
+}
+.boton2{
+	background: white;
+	padding: 10px;
+	width: 120px;
+	height: 35.7px;
+	display: inline-block;
+}
+.img{
+	width: 85%;
+	margin-left: 70px;
+	background-color: white;
+	padding: 10px 10px 50px 10px;
+	border:1px solid #DBDBC9;
+}
